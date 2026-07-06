@@ -2,7 +2,7 @@
 --[[
 
 Credit: TempsNewAccount (Roblox) / temperrature (Discord)
-Purpose: Button Handler with Centralized Array Tracking Engine
+Purpose: Nintendo Switch home menu recreation
 
 ]]
 
